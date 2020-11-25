@@ -3,7 +3,7 @@ node_js:
     - 10
 cache: npm
 install:
-    - npm
+    - npm i
 script:
     - npm run build
 after_success:
