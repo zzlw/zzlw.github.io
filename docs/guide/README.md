@@ -1,0 +1,1 @@
+<img :src="$withBase('/heroImage.png')" alt="foo">
